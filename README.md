@@ -23,7 +23,7 @@ Reference: Awasthi A, Tan S, Travis J, Mo X, Fan K, Zhang Y. PgenePapers: a nove
 
 - **Gene-Pseudogene Correlation Table** - Displays (spearman) correlation between genes and pseudogenes in all cancer types (mentioned in TCGA) based on manually curated pseudogene-coding gene regulation pairs. Also, gives the distribution of correlations and shows strongly correlated gene-pseudogene pairs for all cancer types. The TCGA gene and pseudogene expression data for all cancer types was downloaded from dreamBase database (Synapse ID: syn11461899).
 
-- **miRNA-Gene Correlation Table** - Displays (spearman) correlation between genes and miRNA in all cancer types. Also, gives the distribution of correlations, miRNA-gene pairs based on predicted databases and shows strongly correlated miRNA-gene pairs for all cancer types. We downloaded the correlation among miRNAs and genes/pseudogenes from ?FireBrowse? (http://firebrowse.org).
+- **miRNA-Gene Correlation Table** - Displays (spearman) correlation between genes and miRNA in all cancer types. Also, gives the distribution of correlations, miRNA-gene pairs based on predicted databases and shows strongly correlated miRNA-gene pairs for all cancer types. We downloaded the correlation among miRNAs and genes/pseudogenes from FireBrowse (http://firebrowse.org).
 
 - **Drug-Gene Table** - Displays genes and the associated drugs with the coding gene for all cancer types mentioned in the TCGA. All the drugs mentioned in thge table are are FDA approved. We used the Drug Gene Interaction Database (DGIdb) version 3.0 (http://www.dgidb.org). 
 
